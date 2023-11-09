@@ -1,0 +1,15 @@
+> init
+<<<
++ u.txt p.txt
++ y.txt k.txt
+> add u.txt
+<<<
+> add y.txt
+<<<
+> commit "twin towers"
+<<<
+> list-commit
+u.txt
+y.txt
+
+<<<
